@@ -1,0 +1,88 @@
+.pdfnev 
+{
+  margin:30px;
+  padding:20px;
+  position:absolute;
+  top:10px;
+  border-radius:8px;
+  padding:10px;
+  height:330px;
+  width:190px;
+  display:grid;
+  box-shadow:90px;
+  box-shadow:300px;
+  grid-template-rows:12px 12px 12px;
+}
+.pdfnev spam{
+  margin:30px;
+ position:absolute;
+  background-color:#E5E8E8;
+  display:grid;
+  float:left;
+  grid-template-rows:12px 12px;
+}
+#sp1{
+  margin:20px;
+  top:20px;
+  left:15px;
+  color:black;
+  padding:9px;
+  border-radius:5px;
+    width:160px;
+
+}
+
+#sp2{
+  margin:20px;
+  top:70px;
+  left:15px;
+  color:black;
+  padding:9px;
+  width:160px;
+  border-radius:5px;
+}
+#sp3{
+  margin:20px;
+  left:15px;
+  color:black;
+   top:120px;
+  padding:9px;
+  border-radius:5px;
+    width:160px;
+
+}
+#sp4{
+  margin:20px;
+   top:170px;
+  left:15px;
+  color:black;
+  padding:9px;
+  border-radius:5px;
+    width:160px;
+
+}
+.leftLowernev pdfnev{
+  height:20px;
+  width:30px;
+  padding:10px;
+  position:fixed;
+  top:30px;
+  margin:140px;
+  top:40px;
+  background-color:lightcoral;
+}
+.leftLowernev{
+  height:330px;
+  width:270px;
+ position:absolute;
+  top:325px;
+   left:80px;
+  position:absolute;
+  text-align:center;
+  
+  
+}
+.leftLowernev h3{
+  position:relative;
+  margin-top:40px;
+}

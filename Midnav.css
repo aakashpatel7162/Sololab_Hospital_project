@@ -1,0 +1,64 @@
+.midNave{
+    height:70px;
+    width:110%;
+    position:fixed;
+    top:250px;
+    left:355px;
+    
+  }
+  .midNave spam{
+    margin:10px;
+    padding:13px;
+    border-radius:5px;
+    width:170px;
+  }
+  #main{
+    position:absolute;
+    left:110px;
+     width:800px;
+    padding:15px;
+    height:20px;
+    top:-4px;
+      color:black;
+  
+    
+    
+  }
+  #Mr1{
+    position:absolute;
+    margin-left:0px;
+    background-color:#E5E8E8;
+    left:0px;
+    top:-2px;
+    width:180px;
+    height:18px;
+      color:black;
+  
+  }
+  #main  spam li{
+    border-radius:4px;
+    list-style:none;
+    width:150px;
+    padding:7px;
+    top:270px;
+    color:blue;
+    background-color:rgb(255,255,255)
+  }
+  #Mr2{
+    position:absolute;
+    top:-2px;
+    left:185px;
+      color:black; border-radius:1px;
+      background-color:#E5E8E8;
+  
+  
+  }
+  #Mr3{
+    position:absolute;
+    left:380px;
+    top:-2px;
+    color:black;
+     border-radius:2px;
+      background-color:#E5E8E8;
+  
+  }
