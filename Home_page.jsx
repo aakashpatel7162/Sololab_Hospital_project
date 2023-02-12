@@ -26,15 +26,16 @@ export default function Homepge() {
         <spam > Send Message </spam>
       </div>
       
-      <div className="leftSideNev">
-       <li></li><br/>
-         <li>NEW</li> <br/>
-         <li>PATIENT</li><br/>
-         <li>FOLDER</li><br/>
-         <li>UPLOAD</li><br/>
-         <li>REPORT</li><br/>
-         <li>SETTING</li><br/>
-         <li>LOGOUT</li>
+       <div className="leftSideNev">
+       <li id="li1"></li><br/>
+         <li><RxAlignCenterVertically/><br/>NEW</li> <br/>
+         <li><FcAbout/><br/>PATIENT</li><br/>
+         <li><AiOutlineFolderOpen/><br/>FOLDER</li><br/>
+         <li><BsUpload/><br/>UPLOAD</li><br/>
+         <li><HiOutlineDocumentReport/><br/>REPORT</li> 
+                   <br/>
+         <li><CiSettings/><br/>SETTING</li><br/>
+         <li><FiLogOut/><br/>LOGOUT</li>
         
         
       </div>
